@@ -2,6 +2,14 @@
 
 Welcome to the "Learn Python for Data" repository! Whether you're a seasoned engineer looking to expand your skill set or someone who wants to learn Python from scratch specifically for data-related tasks, you're in the right place. This repository aims to cover everything you need to know about Python for handling and analyzing data. Each concept and code will be explained in detail with suitable illustrations to make learning easy and enjoyable.
 
+# Hit the Star! ⭐
+If you're planning on using this Python repository for learning, please consider giving it a star⭐                      
+Thank you!
+
+# For Doubts and Queries 
+Feel free to connect with me on LinkedIn through this profile: 
+https://www.linkedin.com/in/sahdevgrover/
+
 ## About the Instructor
 
 **Instructor**: Sumit Mittal
